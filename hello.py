@@ -1,1 +1,3 @@
-print("hello git!")
+nama = input()
+npm = input()
+print(f"hello {nama}, {npm}")
